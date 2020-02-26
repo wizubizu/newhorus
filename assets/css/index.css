@@ -120,6 +120,19 @@
 
 @media screen and (max-width: 560px){
 
+  .__flexsmail{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .__mobidown{
+    order: 2;
+  }
+
+  .__mobiup{
+    order: 1;
+  }
+
   .__navlinkbtn {
     margin: 19px;
     text-align:center;

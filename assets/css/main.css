@@ -1120,6 +1120,10 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   cursor: not-allowed;
 }
 
+.delete{
+  cursor: pointer;
+}
+
 
 
 /*=================================================================
