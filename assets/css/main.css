@@ -218,6 +218,10 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   margin-top:5%;
 }
 
+.__spacet7p{
+  margin-top:7%;
+}
+
 .__spacet10p{
   margin-top:10%;
 }
@@ -413,6 +417,110 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   /*margin-top: 22%;*/
 }
 
+.__buildbg{
+  background-image: url(../img/buildbg.png) !important;
+  /*background:linear-gradient(100deg, rgba(0, 1, 14, 0.5) 50%, rgba(0, 1, 14, 0.5) 50%), url(../img/banner.png);*/
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  padding: 0 0 5%;
+  background: #f8ce3c;
+}
+
+.__mobiup img{
+  display: none;
+}
+
+.__wttb{
+  font-size: 61px;
+  color: #141414;
+  font-family: Gilroy-Bold;
+  line-height: 1.22;
+  /*margin-top: 22%;*/
+}
+
+.__wttb1{
+  font-size: 19px;
+  color: #616161;
+  font-family: Roboto-Regular;
+  line-height: 1.5;
+  /*margin-top: 22%;*/
+}
+
+.__wattbhr{
+  margin-top: 30px;
+  margin-bottom: 35px;
+  border-top: 1px solid #616161;
+}
+
+.__weme{
+  font-size: 28px;
+  line-height: 1.33;
+  color: #141414;
+  font-family: Gilroy-Bold;
+}
+
+.__weme1{
+  font-size: 16px;
+  line-height: 1.5;
+  color: #616161;
+  font-family: Roboto-Regular;
+}
+
+.__webu{
+  font-size: 24px;
+  line-height: 1.5;
+  color: #616161;
+  font-family: Roboto-Regular;
+}
+
+.__magibg{
+  background: #f5f5f5;
+  padding: 8% 0;
+}
+
+.__mgs{
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+  font-family: Gilroy-Bold;
+}
+
+.__mgs1{
+  font-size: 18px;
+  line-height: 1.33;
+  color: #000000;
+  font-family: Roboto-Regular;
+}
+
+.__magp{
+  font-size: 20px;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Gilroy-Bold;
+}
+
+.__magimg{
+  margin-top: 10px;
+}
+
+.__magp1{
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Roboto-Regular;
+}
+
+
+.__midibg{
+  background:linear-gradient(to left, rgba(255, 255, 255, 0), #ffffff 95%), url(../img/recruitment.png);
+  /*background: #f5f5f5;*/
+  padding: 8% 0;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
 .__stacks{
   font-size: 16px;
   line-height: 1.5;
@@ -454,6 +562,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   border-radius: 1px;
   background: #0076f3;
   font-family: Roboto-Regular;
+  padding: 12px 18px;
 }
 
 .__imgd {
@@ -1123,6 +1232,8 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .delete{
   cursor: pointer;
 }
+
+
 
 
 
